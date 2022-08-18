@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lps:LeadServiceResponse xmlns:lps="https://lps.smartdealerportal.com/services">
+    <lps:status>ACCEPTED</lps:status>
+    <lps:code>0_ACCEPTED</lps:code>
+    <lps:message>Accepted</lps:message>
+</lps:LeadServiceResponse>
